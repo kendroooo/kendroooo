@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm kendroooo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=kendroooo;debugging+my+life" alt="Typing SVG" />
+  <img src="./assets/banner.svg" alt="yeahhhh" />
 </p>
 
 ---
