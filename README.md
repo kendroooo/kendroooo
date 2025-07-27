@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm kendroooo 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/kendroooo-black?style=for-the-badge&logo=github&logoColor=white" width="200">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=kendroooo;debugging+my+life" alt="Typing SVG" />
 </p>
 
 ---
