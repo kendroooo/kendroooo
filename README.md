@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm kendroooo 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fFKufW0X6hY3O/giphy.gif" width="200">
+  <img src="https://media.tenor.com/95dC2SYZ6asAAAAC/house-dr-house.gif" width="200">
 </p>
 
 ---
@@ -31,6 +31,7 @@
 <p align="center">
   <b>wanna talk? just text me here on github lol</b>
 </p>
+
 
 <p align="center">
   <i>“it works on my machine” - kendroooo, probably</i>
