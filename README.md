@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm kendroooo 👋</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/95dC2SYZ6asAAAAC/house-dr-house.gif" width="200">
+  <img src="https://img.shields.io/badge/kendroooo-black?style=for-the-badge&logo=github&logoColor=white" width="200">
 </p>
 
 ---
