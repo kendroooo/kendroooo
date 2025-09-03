@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm shantanu 👋</h1>
+<h1 align="center">hey, i'm luciano 👋</h1>
 
 <p align="center">
   <img src="./assets/banner.svg" alt="yeahhhh" />
