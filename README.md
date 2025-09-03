@@ -25,7 +25,7 @@
 <h2 align="center">⚡ random stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kendroooo&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kenoooo&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kendroooo&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
